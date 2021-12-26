@@ -1,4 +1,3 @@
-Python
 New to GitHub
 
 <!---
